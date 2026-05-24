@@ -1,0 +1,16 @@
+.NavBar-container {
+    background-color: rgb(211, 184, 207);
+    padding: 20px 0;
+    text-align: center;
+    font-size: 30px;
+    position: auto;
+    top: 0;
+    width: 100%;
+    border-bottom: 30px rgb(153, 63, 93);
+}
+
+.link-nav {
+    margin: 4px;
+    text-decoration: none;
+
+}

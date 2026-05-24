@@ -1,0 +1,30 @@
+body{
+    background-image: url(assets/Pastel.jfif);
+    background-repeat: repeat;
+    background-position: cover;
+    background-size:cover ;
+}
+
+
+
+.CentrarEsteTexto{
+    text-align: center;
+    h2, p , ul{
+        margin-left: 60px;
+    }
+    h2{
+        font-size: 50px;
+    }   
+    p, ul{
+        font-size: 30px;
+    }
+}
+
+.Galería.Galería.{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 12px;
+    display: inline-block;
+
+}
